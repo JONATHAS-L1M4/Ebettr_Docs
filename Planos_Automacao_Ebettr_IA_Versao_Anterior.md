@@ -132,12 +132,14 @@ Execuções incluídas = preço do plano ÷ preço por execução
 
 ```
 
-| Plano | Preço por execução | Execuções / mês |
-|------|------|------|
-| Starter | 0,005 | 18.000 |
-| Essencial | 0,004 | 37.500 |
-| Plus | 0,003 | ≈ 95.000 |
-| Pro | 0,002 | 325.000 |
-| Scale | 0,001 | 1.200.000 |
+| Plano     | Preço por execução |   Execuções / mês |
+| --------- | -----------------: | ----------------: |
+| Starter   |           R$ 0,005 |            20.000 |
+| Essencial |           R$ 0,004 |            37.500 |
+| Plus      |           R$ 0,003 | 95.000 ou 100.000 |
+| Pro       |           R$ 0,002 |           350.000 |
+| Scale     |           R$ 0,001 |         1.350.000 |
+
 
 ```
+
