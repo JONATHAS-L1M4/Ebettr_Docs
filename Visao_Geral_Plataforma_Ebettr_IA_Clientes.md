@@ -1,7 +1,3 @@
-Segue uma versão **reformulada e mais orientada ao cliente**, com linguagem mais clara, menos técnica e focada em valor. Mantive a estrutura lógica, mas adaptei a narrativa para algo que poderia ser usado em **site, documentação pública ou onboarding de clientes**.
-
----
-
 # Ebettr IA — Visão Geral da Plataforma
 
 A **Ebettr IA** é uma plataforma desenvolvida para permitir que empresas utilizem **agentes de inteligência artificial e automações avançadas** de forma simples e segura.
@@ -138,13 +134,3 @@ A **Ebettr IA atua como a camada de gerenciamento dessa infraestrutura**, organi
 
 Isso permite que empresas utilizem **automações avançadas e agentes inteligentes sem precisar operar ferramentas técnicas ou manter sistemas complexos.**
 
----
-
-Se quiser, também posso te ajudar a criar:
-
-* **versão para landing page (mais comercial)**
-* **versão para documentação técnica**
-* **versão curta para apresentação ou pitch da Ebettr IA**
-* **versão de onboarding para novos clientes**
-
-Essas versões costumam ser importantes quando a plataforma começa a crescer. 🚀
