@@ -1,7 +1,7 @@
 # Planos de Automação
 
 ## ⬜ Plano Starter (Mensal) — Sem IA
-**Preço:** R$ 90 / mês  
+**Preço:** R$ 99 / mês  
 
 **Inclui:**
 - ✅ 5 e-mails para acesso ao painel/automação
@@ -39,7 +39,7 @@
 ---
 
 ## 🟩 Plano Plus (Mensal)
-**Preço:** R$ 280 / mês  
+**Preço:** R$ 290 / mês  
 
 **Inclui:**
 - ✅ 20 e-mails para acesso ao painel + agente
@@ -57,7 +57,7 @@
 ---
 
 ## 🟨 Plano Pro (Mensal)
-**Preço:** R$ 650 / mês  
+**Preço:** R$ 700 / mês  
 
 **Inclui:**
 - ✅ 50 e-mails para acesso ao painel + agente
@@ -75,7 +75,7 @@
 ---
 
 ## 🟥 Plano Scale (Mensal)
-**Preço:** R$ 1.200 / mês  
+**Preço:** R$ 1.350 / mês  
 
 **Inclui:**
 - ✅ E-mails ilimitados para acesso ao painel + agente
@@ -106,11 +106,11 @@ Preço do fluxo extra = preço do plano ÷ nº de fluxos inclusos
 
 | Plano | Cálculo | Preço por fluxo extra |
 |------|------|------|
-| Starter | 90 ÷ 1 | R$ 90 |
+| Starter | 99 ÷ 1 | R$ 99 |
 | Essencial | 150 ÷ 1 | R$ 150 |
-| Plus | 280 ÷ 2 | R$ 140 |
-| Pro | 650 ÷ 5 | R$ 130 |
-| Scale | 1200 ÷ 10 | R$ 120 |
+| Plus | 290 ÷ 2 | R$ 145 |
+| Pro | 700 ÷ 5 | R$ 140 |
+| Scale | 1350 ÷ 10 | R$ 135 |
 
 **Cálculo final**
 
@@ -139,4 +139,5 @@ Execuções incluídas = preço do plano ÷ preço por execução
 | Plus | 0,003 | ≈ 95.000 |
 | Pro | 0,002 | 325.000 |
 | Scale | 0,001 | 1.200.000 |
+
 ```
